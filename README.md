@@ -40,7 +40,7 @@
 - Install the Windows 10 OS in it
 - Give it a Decent amount of specification
 - Mine is Here
-image 1
+![1](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/1.webp)
 
 - You can give it by our need
 - I Suggest you for giving 4Gb+ Ram and 50Gb Storage for better performance
@@ -54,7 +54,7 @@ image 1
 
 - If you want to download a malware so you can check of the git hub repository
 - I have downloaded malware from here
-image 2
+![2](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/2.webp)
 ## Send Email
 
 - If we want to send email so we can send it from our mail box
@@ -67,10 +67,10 @@ image 2
 - Here I have send a malicious email containing subject line
 - Subject as Hey You Have Win a Lucky Draw
 - Given a Task to Chatgpt to write a content for Email on the topic
-image 3
+![3](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/3.webp)
 - Copied email format from chatgpt and paste it on the email sender box.
-image 4
-image 5
+![4](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/4.webp)
+![5](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/5.webp)
 - Attached Malware File to it by changing its name to Lucky_Draw_Game
 - So user will think that it is a game app but it is a malware
 
@@ -80,31 +80,31 @@ image 5
 
 - We can check for the email by just checking for its header
 - Lets take an example for WordPress email
-image 6
+![6](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/6.webp)
 - First step is to check for the content read it carefully and notice it there are some mistakes
 - Note that it contain some attachment with it if yes so don’t open it.
 - Check for the Header by clicking on 3 dots
-image 7
+![7](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/7.webp)
 - Click on Show Original
-image 8
+![8](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/8.webp)
 - Here is a bunch of information about email
-image 9
+![9](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/9.webp)
 ## IP
 
 - It shows his IP address
-image 10
+![10](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/10.webp)
 - Here is information we get from the ip
-image 11
+![11](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/11.webp)
 - We get to know that the ip is genuine and comes from original source
 
 ## Domain
 
 - Lets Check for the domain name register
-image 12
+![12](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/12.webp)
 - Here is the domain of wordpress
 - Lets check for more information
-image 13
-image 14
+![13](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/13.webp)
+![14](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/14.webp)
 - They have hide much of the information so we are not able to get more information
 - So here we have done the basic level of email analysis
 
@@ -113,39 +113,39 @@ image 14
 - Here are some of the websites where you can do analysis
 
 WHOIS Lookup:
-image 15
+![15](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/15.webp)
 - MXToolbox offers a variety of tools for analyzing domains and IP addresses, including DNS lookup, blacklist check, and email header analysis.
 
 **MXToolbox**:
-image 16
+![16](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/16.webp)
 
 - MXToolbox offers a variety of tools for analyzing domains and IP addresses, including DNS lookup, blacklist check, and email header analysis.
 
 **IPVoid**:
-image 17
+![17](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/17.webp)
 - IPVoid provides tools for IP and domain analysis, including blacklist check, IP geolocation, and reverse DNS lookup.
 
 **Shodan**:
-image 18
+![18](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/18.webp)
 
 - Shodan is a search engine that lets you find specific types of computers (routers, servers, etc.) connected to the internet using a variety of filters. It’s particularly useful for analyzing devices connected to the internet by their IP addresses.
 
 # Malware Analysis
 
 **VirusTotal:**
-image 19
+![19](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/19.webp)
 - VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content. It aggregates multiple antivirus engines and scan results from various sources to provide comprehensive insights into the potential threats of a file or URL.
 
 **Hybrid Analysis:**
-image 20
+![20](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/20.webp)
 - Hybrid Analysis is a dynamic malware analysis service that allows users to submit files and URLs for analysis. It provides detailed reports on the behavior of malware samples in a controlled environment, including information on network activity, file modifications, and system impact.
 
 **Any.Run:**
-image 21
+![21](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/21.webp)
 - Any.Run is an interactive malware analysis platform that allows users to execute and observe the behavior of malware samples in real-time. It provides a sandboxed environment where users can interact with malware and monitor its activities, including network connections, file operations, and registry changes.
 
 **Joe Sandbox:**
-image 22
+![22](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/22.webp)
 - Joe Sandbox is an automated malware analysis platform that provides in-depth reports on the behavior and characteristics of malware samples. It uses advanced techniques such as code emulation, dynamic instrumentation, and memory analysis to uncover the capabilities and intentions of malicious code.
 
 # Practical Malware Analysis
@@ -154,11 +154,11 @@ image 22
 - I have one malware and lets check it
 - Here is Malware
 
-image 23
+![23](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/23.webp)
 - Annabelle.exe
 
 ## Lets Check
 
 - Lets Check it by uploading it on VirusTotal
-image 24
-image 25
+![24](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/24.webp)
+![25](https://raw.githubusercontent.com/prakharsec/Phishing-Email-Analysis/main/Phishing%20email%20analysis/25.webp)
